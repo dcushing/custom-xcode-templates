@@ -3,7 +3,7 @@
 import SwiftUI
 
 struct ___FILEBASENAMEASIDENTIFIER___: View {
-  @ObservedObject var viewModel: ___VARIABLE_productName:identifier___ViewModel
+  var viewModel: ___VARIABLE_productName:identifier___ViewModel
 
   var body: some View {
     VStack {
@@ -13,7 +13,7 @@ struct ___FILEBASENAMEASIDENTIFIER___: View {
 }
 
 private struct ___FILEBASENAMEASIDENTIFIER___DetailsView: View {
-  @ObservedObject var viewModel: ___VARIABLE_productName:identifier___ViewModel
+  var viewModel: ___VARIABLE_productName:identifier___ViewModel
 
   var body: some View {
     Text("Placeholder")
